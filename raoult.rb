@@ -3,7 +3,7 @@ class Raoult
   SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/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'.freeze
   ACCESS_KEY_ID = 'AKIAYZS76A656TWHZZNY'
   SECRET_ACCESS_KEY = '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'
-  GCP_KEY = 'AIzaSyDK8F9fM625pEsO-4um8a0TAsjOd-9pZ9k'
+  GCP_KEY = 'sk_test_fqO4DswWZ7AfU6l26xtXycSD'
 
   def save_the_world
     puts 'Raoult! Raoult! Raoult!'
